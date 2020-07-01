@@ -1,0 +1,19 @@
+site_name: About Technical writing
+site_url: https://about-techwriting.netlify.app/
+site_description: List of resources with information about Technical writing
+site_author: osntask
+repo_name: osntask/about-techwriting
+repo_url: https://github.com/osntask/about-techwriting
+theme:
+  name: material
+  palette:
+    primary: midnightblue
+    accent: red
+extra:
+  social:
+    - type: github
+      link: https://github.com/osntask
+    - type: 'linkedin'
+      link: https://www.linkedin.com/in/osntask
+nav:
+  - "List of resources with information about Technical writing": "index.md"
